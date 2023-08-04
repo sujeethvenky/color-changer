@@ -1,0 +1,14 @@
+body { 
+  height: 100vh ;
+  display: flex;
+  justify-content: center;
+  align-items: center ;
+}
+button{
+ font-weight: 700;
+ border-radius: 50%;
+ padding: 10px;
+ background-color: #808080;
+ font-size: medium;
+
+}
